@@ -1,11 +1,11 @@
 
-#title: "Code Book for Getting and Cleaning Data Course Project"
+# Code Book for Getting and Cleaning Data Course Project
 
 This code book explains all the variables in the tidy.txt file.
 
-# Varialbes
+## Varialbes
 
-## Identifiers
+### Identifiers
 * subject  - ID of the subject
 * activity - subject's activity with possible values:
   + WALKING - subject was walking
@@ -15,7 +15,7 @@ This code book explains all the variables in the tidy.txt file.
   + STANDING  - subject was standing
   + LAYING  - subject was laying
   
-## Measurements
+### Measurements
 * tBodyAccMeanX
 * tBodyAccMeanY
 * tBodyAccMeanZ

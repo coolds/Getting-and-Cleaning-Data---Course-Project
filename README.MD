@@ -1,4 +1,4 @@
-# title: "Getting and Cleaning Data - Course Project"
+# Getting and Cleaning Data - Course Project
 
 
 This is a course project for Coursera course Getting and Cleaning Data. 
