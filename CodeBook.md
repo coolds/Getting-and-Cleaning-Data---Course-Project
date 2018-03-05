@@ -1,7 +1,5 @@
----
-title: "Code Book for Getting and Cleaning Data Course Project"
-output: html_document
----
+
+#title: "Code Book for Getting and Cleaning Data Course Project"
 
 This code book explains all the variables in the tidy.txt file.
 
